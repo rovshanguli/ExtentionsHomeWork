@@ -12,3 +12,17 @@ C:\Users\user\Desktop\HomeWorks\ExtentionsHomeWork\ExtentionsHomeWork\obj\Debug\
 C:\Users\user\Desktop\HomeWorks\ExtentionsHomeWork\ExtentionsHomeWork\obj\Debug\netcoreapp3.1\ExtentionsHomeWork.dll
 C:\Users\user\Desktop\HomeWorks\ExtentionsHomeWork\ExtentionsHomeWork\obj\Debug\netcoreapp3.1\ExtentionsHomeWork.pdb
 C:\Users\user\Desktop\HomeWorks\ExtentionsHomeWork\ExtentionsHomeWork\obj\Debug\netcoreapp3.1\ExtentionsHomeWork.genruntimeconfig.cache
+C:\Users\rovshanshg\Desktop\ExtentionsHoemWork\ExtentionsHomeWork\ExtentionsHomeWork\bin\Debug\netcoreapp3.1\ExtentionsHomeWork.exe
+C:\Users\rovshanshg\Desktop\ExtentionsHoemWork\ExtentionsHomeWork\ExtentionsHomeWork\bin\Debug\netcoreapp3.1\ExtentionsHomeWork.deps.json
+C:\Users\rovshanshg\Desktop\ExtentionsHoemWork\ExtentionsHomeWork\ExtentionsHomeWork\bin\Debug\netcoreapp3.1\ExtentionsHomeWork.runtimeconfig.json
+C:\Users\rovshanshg\Desktop\ExtentionsHoemWork\ExtentionsHomeWork\ExtentionsHomeWork\bin\Debug\netcoreapp3.1\ExtentionsHomeWork.runtimeconfig.dev.json
+C:\Users\rovshanshg\Desktop\ExtentionsHoemWork\ExtentionsHomeWork\ExtentionsHomeWork\bin\Debug\netcoreapp3.1\ExtentionsHomeWork.dll
+C:\Users\rovshanshg\Desktop\ExtentionsHoemWork\ExtentionsHomeWork\ExtentionsHomeWork\bin\Debug\netcoreapp3.1\ExtentionsHomeWork.pdb
+C:\Users\rovshanshg\Desktop\ExtentionsHoemWork\ExtentionsHomeWork\ExtentionsHomeWork\obj\Debug\netcoreapp3.1\ExtentionsHomeWork.csproj.AssemblyReference.cache
+C:\Users\rovshanshg\Desktop\ExtentionsHoemWork\ExtentionsHomeWork\ExtentionsHomeWork\obj\Debug\netcoreapp3.1\ExtentionsHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rovshanshg\Desktop\ExtentionsHoemWork\ExtentionsHomeWork\ExtentionsHomeWork\obj\Debug\netcoreapp3.1\ExtentionsHomeWork.AssemblyInfoInputs.cache
+C:\Users\rovshanshg\Desktop\ExtentionsHoemWork\ExtentionsHomeWork\ExtentionsHomeWork\obj\Debug\netcoreapp3.1\ExtentionsHomeWork.AssemblyInfo.cs
+C:\Users\rovshanshg\Desktop\ExtentionsHoemWork\ExtentionsHomeWork\ExtentionsHomeWork\obj\Debug\netcoreapp3.1\ExtentionsHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\rovshanshg\Desktop\ExtentionsHoemWork\ExtentionsHomeWork\ExtentionsHomeWork\obj\Debug\netcoreapp3.1\ExtentionsHomeWork.dll
+C:\Users\rovshanshg\Desktop\ExtentionsHoemWork\ExtentionsHomeWork\ExtentionsHomeWork\obj\Debug\netcoreapp3.1\ExtentionsHomeWork.pdb
+C:\Users\rovshanshg\Desktop\ExtentionsHoemWork\ExtentionsHomeWork\ExtentionsHomeWork\obj\Debug\netcoreapp3.1\ExtentionsHomeWork.genruntimeconfig.cache

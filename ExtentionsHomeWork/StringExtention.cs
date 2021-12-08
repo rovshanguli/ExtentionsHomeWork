@@ -9,15 +9,16 @@ namespace ExtentionsHomeWork
 
         public static int SumOfWord(this string sentence, string word)
         {
-            int sumofword = 0;
-            for(int i = 0; i < sentence.Length; i++)
+            int Sum = 0;
+            string[] wordbyword = sentence.Split(" ");
+            foreach (string item in wordbyword)
             {
-                if (sentence.Contains(word))
+                if (item == word)
                 {
-                    sumofword++;
+                    Sum++;
                 }
             }
-            return sumofword;
+            return Sum;
         }
     }
 }

@@ -6,7 +6,7 @@ namespace ExtentionsHomeWork
     {
         static void Main(string[] args)
         {
-            string sentence = "Salam Cavid.Necesen Cavid";
+            string sentence = "Salam Cavid . Necesen Cavid Cavid ";
             int count = sentence.SumOfWord("Cavid");
             Console.WriteLine(count);
         }
